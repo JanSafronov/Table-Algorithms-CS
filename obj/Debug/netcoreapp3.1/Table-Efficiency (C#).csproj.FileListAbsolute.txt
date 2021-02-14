@@ -1,0 +1,4 @@
+C:\Users\User\Documents\VSC\C# Projects\Table-Efficiency (C#)\obj\Debug\netcoreapp3.1\Table-Efficiency (C#).csprojAssemblyReference.cache
+C:\Users\User\Documents\VSC\C# Projects\Table-Efficiency (C#)\obj\Debug\netcoreapp3.1\Table-Efficiency (C#).AssemblyInfoInputs.cache
+C:\Users\User\Documents\VSC\C# Projects\Table-Efficiency (C#)\obj\Debug\netcoreapp3.1\Table-Efficiency (C#).AssemblyInfo.cs
+C:\Users\User\Documents\VSC\C# Projects\Table-Efficiency (C#)\obj\Debug\netcoreapp3.1\Table-Efficiency (C#).csproj.CoreCompileInputs.cache

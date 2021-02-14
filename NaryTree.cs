@@ -1,3 +1,8 @@
+using System.IO;
+using System.Security.AccessControl;
+using System.Reflection.Metadata.Ecma335;
+using System.Security.Cryptography;
+using System.Linq.Expressions;
 using System;
 using System.Text;
 using System.Collections.Generic;
@@ -59,10 +64,13 @@ namespace Table_Efficiency_C
         
         /// <summary>Append a new linked tree after a node</summary>
         /// <param name="node">Linked tree to append</param>
-        /// <typeparam name="node">des</typeparam>
         public void appendNode(LinkedListNode<NaryTree<T>> node, LinkedListNode<NaryTree<T>> target) {
             this.node.AddAfter(target, node);
-            
+        }
+
+
+
+        public void replaceChild() {
         }
     }
 }
