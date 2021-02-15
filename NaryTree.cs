@@ -70,7 +70,15 @@ namespace Table_Efficiency_C
 
 
 
-        public void replaceChild() {
+        public void replaceChild(LinkedListNode<NaryTree<T>> target, LinkedListNode<NaryTree<T>> node) {
+            this.node.AddAfter(target, node);
+            this.node.AddAfter(node, target);
+            this.node.Remove(node);
+            this.node.Remove(target);
+        }
+
+        public void replaceChildValue() {
+            
         }
     }
 }

@@ -7,6 +7,7 @@ namespace Table_Efficiency__C__
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            
         }
     }
 }
